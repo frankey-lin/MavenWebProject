@@ -40,5 +40,6 @@
 
   <build>
     <finalName>MavenWebProject</finalName>
+    
   </build>
 </project>
